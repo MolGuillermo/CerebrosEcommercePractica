@@ -1,0 +1,142 @@
+[
+    {
+        "id": "Camisa Talle 10",
+        "titulo": "Camisa Talle 10",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 7900
+    },
+    {
+        "id": "Camisa Talle 12",
+        "titulo": "Camisa Talle 10",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "Camisa Talle S-L",
+        "titulo": "Camisa Talle S-L",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Camisa Talle XL-XXXL",
+        "titulo": "Camisa Talle XL-XXXL",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 10500
+    },
+    {
+        "id": "Pañuelo",
+        "titulo": "Pañuelo",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Pañuelos",
+            "id": "pañuelos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Pasa Pañuelo",
+        "titulo": "Pasa Pañuelo",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Pasa Pañuelos",
+            "id": "pañuelos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Paravachasca",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Verano",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Invierno",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Otoño",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Primavera",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignia Progresión",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignias Rama",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Insiginas",
+        "titulo": "Insignias Flor de Lis",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Insignias",
+            "id": "insignias"
+        },
+        "precio": 1000
+    }
+]
